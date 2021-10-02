@@ -1,0 +1,10 @@
+1. Home Page
+Navbar - a.Bookings - Accomodations,Adventure,Tours/Packages
+         b.Explore Jharkhand
+           -culture,festivals,cuisines,costumes,districts,Aboutus,shopping,history/geography
+         c.Attractions
+           -Destination/cities,forest and wildlife,lakes and waterbodies,museums,heritage sites and places,temples
+         d.Contact us
+         e.Map
+         f.useful links
+         g.Customer Care - feedback,complaints,experiences

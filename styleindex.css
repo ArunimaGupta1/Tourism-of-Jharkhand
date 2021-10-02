@@ -1,0 +1,31 @@
+body{
+    background-image: url(pics//IMG_4132.JPG);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size:auto;
+    object-fit:cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 5%;
+    background-color: 	#f2b90d;
+
+}
+#header{
+    font-family: fantasy;
+    color: crimson;
+    text-align: center;
+
+}
+.carousel-inner{
+    width: auto !important;
+    height: 1100px;
+
+}
+.navbar{background:#222222;}
+.nav-item::after{content:'';display:block;width:0px;height:2px;background:#fec400;transition: 0.2s;}
+.nav-item:hover::after{width:100%;}
+.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link,.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover{color:#fec400;}
+.nav-link{padding:15px 5px;transition:0.2s;}
+.dropdown-item.active, .dropdown-item:active{color:#212529;}
+.dropdown-item:focus, .dropdown-item:hover{background:#fec400;}
+   
